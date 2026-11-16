@@ -4,10 +4,10 @@
 - **Security automation** for a Top 100 US bank, focused on SOAR playbook development, Tier 1 to 3 incident response and automation validation.
 
 **Security**<br>
-<a><img src="security.svg" alt="Splunk, CrowdStrike, Google SecOps, Zscaler, Cisco Umbrella, Rapid7, ReliaQuest GreyMatter, Mimecast, Active Directory, Exchange, Power Automate, MITRE ATT&CK"></a>
+<picture><img src="security.svg" alt="Splunk, CrowdStrike, Google SecOps, Zscaler, Cisco Umbrella, Rapid7, ReliaQuest GreyMatter, Mimecast, Active Directory, Exchange, Power Automate, MITRE ATT&CK"></picture>
 
 **AI & Automation**<br>
-<a><img src="ai.svg" alt="Claude Code, Claude API, OpenAI, n8n"></a>
+<a href="#"><img src="ai.svg" alt="Claude Code, Claude API, OpenAI, n8n"></a>
 
 **Development**<br>
-<a><img src="dev.svg" alt="TypeScript, JavaScript, Python, React Native, Expo, Supabase, PostgreSQL, Git, GitHub, VS Code, Apple, Windows"></a>
+<picture><img src="dev.svg" alt="TypeScript, JavaScript, Python, React Native, Expo, Supabase, PostgreSQL, Git, GitHub, VS Code, Apple, Windows"></picture>
