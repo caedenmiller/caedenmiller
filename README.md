@@ -1,7 +1,7 @@
 <p><img src="banner.svg" alt="Caeden Miller. SecOps, AI automation, mobile development. Washington, DC. Tracka on the App Store."></p>
 
 - Building **[Tracka](https://gettracka.com)**: an iOS app for collection tracking and card-show discovery, with live market pricing across a 40,000-card catalog, a paid subscription tier and over 700 active users.
-- **OceanFirst Bank**: security automation for a Top 100 US bank, focused on SOAR playbook development, Tier 1 to 3 incident response and automation validation.
+- **Security automation** for a Top 100 US bank, focused on SOAR playbook development, Tier 1 to 3 incident response and automation validation.
 
 ### Skills
 <p>
